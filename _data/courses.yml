@@ -1,0 +1,6 @@
+courses:
+
+  - title: Apps with TkInter
+    standard: 91637
+    description: |
+      Planning and building graphical Python apps using the TkInter visual component library for desktop.
