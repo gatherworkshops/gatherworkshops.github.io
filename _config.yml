@@ -1,6 +1,6 @@
 name: Gather Workshops
 
-baseurl: "/"
+baseurl: ""
 theme_assets: "/theme/assets"
 theme_images: "/theme/assets/images"
 course_images: "/media/images"
