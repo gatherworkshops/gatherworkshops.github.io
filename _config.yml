@@ -1,10 +1,18 @@
+# Project Name
 name: Gather Workshops
+
+# Jekyll Version
+version: 3.1.6
+
+# theme
+themecolor: "#F21800"
 
 baseurl: ""
 theme_assets: "/theme/assets"
 theme_images: "/theme/assets/images"
 course_images: "/media/images"
 
+# Markdown Config
 markdown: kramdown
 exclude: ["node_modules", "Gemfile", "Gruntfile.js", "package.json", "README.md"]
 
@@ -27,8 +35,4 @@ collections:
   courses:
     output: true
     layout: chapter
-
-
-# theme
-themecolor: "#466f1b"
 
